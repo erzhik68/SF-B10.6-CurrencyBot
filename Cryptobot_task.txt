@@ -1,0 +1,5 @@
+name: CurrencyBot
+
+username: Currency2022Bot
+
+token: 5198713311:AAG6pPj8SUX23gAIsInTVUOIFppWqa4_HGQ
